@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**isadoramadrid/isadoramadrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hola 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy Isadora 😊
+
+[LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/isadora-madrid-206b5b253)
+📧 Contacto: isadora.madrid@ug.uchile.cl
+
+🎓 Actualmente estoy estudiando Ingeniería Civil Industrial y aprendiendo sobre programación, análisis de datos y herramientas de desarrollo.  
+📊 Me interesa especialmente el mundo del data análisis, sobre todo aplicado a negocios.  
+
+## 🚀 Sobre mí
+
+- Me gusta aprender nuevas herramientas y seguir desarrollando mis habilidades  
+- Actualmente soy auxiliar de dos ramos, lo que me ha permitido también desarrollar habilidades enseñando  
+- Disfruto hacer clases y compartir conocimiento con otros  
+- Me interesa seguir creciendo en el área de datos y tecnología    
+
+## 🌱 Fuera de lo académico
+
+- 🏐 Juego vóley por mi facultad y universidad  
+- 📚 Me gusta leer en mi tiempo libre  
+- 🌿 Estoy tratando de explorar nuevos hobbies, como tejer, diseñar.
+
+---
+
+✨ Gracias por visitar mi perfil
