@@ -16,7 +16,7 @@ Soy Isadora 😊
 
 ## 🌱 Fuera de lo académico
 
-- 🏐 Juego vóley por mi facultad y universidad  
+- 🏐 Juego vóley por la facultad y universidad  
 - 📚 Me gusta leer en mi tiempo libre  
 - 🌿 Estoy tratando de explorar nuevos hobbies, como tejer, diseñar.
 
