@@ -4,17 +4,6 @@
 
 Soy Isadora 😊
 
-## 📫 Contacto
-<p>
-  <a href="https://www.linkedin.com/in/isadora-madrid-206b5b253" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="mailto:isadora.madrid@ug.uchile.cl">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
 🎓 Actualmente estoy estudiando Ingeniería Civil Industrial en [Universidad de Chile](https://www.dii.uchile.cl/) y aprendiendo sobre programación, análisis de datos y herramientas de desarrollo.  
 📊 Me interesa especialmente el mundo del data análisis, sobre todo aplicado a negocios.  
 
@@ -32,5 +21,17 @@ Soy Isadora 😊
 - 🌿 Estoy tratando de explorar nuevos hobbies, como tejer, diseñar.
 
 ---
+
+## 📫 Contacto
+<p>
+  <a href="https://www.linkedin.com/in/isadora-madrid-206b5b253" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:isadora.madrid@ug.uchile.cl">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
 
 ✨ Gracias por visitar mi perfil
